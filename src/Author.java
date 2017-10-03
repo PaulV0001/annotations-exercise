@@ -13,7 +13,7 @@ public class Author extends Person {
     }
 
     /**
-     * @deprecated Use publishedBooks instead
+      @deprecated Use publishedBooks instead
      */
 
     public List<String> getBooks() {
